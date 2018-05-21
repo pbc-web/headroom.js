@@ -1,7 +1,7 @@
 {
   "name": "headroom.js",
   "main": [
-    "dist/headroom.js",
+    "dist/headroom.js"
   ],
   "ignore": [
     "**/.*",
